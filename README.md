@@ -1,4 +1,4 @@
-# todo
+# todo List app using flutter 
 
 Introducing FlutterTodo: Your Ultimate Task Management Companion!
 
